@@ -1,10 +1,10 @@
-# MiniTorch Module 1
+# MiniTorch Module 2
 
 <img src="https://minitorch.github.io/_images/match.png" width="100px">
 
 * Docs: https://minitorch.github.io/
 
-* Overview: https://minitorch.github.io/module1.html
+* Overview: https://minitorch.github.io/module2.html
 
 This assignment requires the following files from the previous assignments.
 
